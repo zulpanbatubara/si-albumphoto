@@ -1,0 +1,22 @@
+{
+    "name": "user/uts",
+    "description": "Pratikum Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "User\\Uts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zulpanbatubara",
+            "email": "zulpanbatubara485@gmail.com"
+        }
+    ],
+    "autoload-dev": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "require": {}
+}
